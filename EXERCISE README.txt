@@ -1,5 +1,4 @@
 Chirag J Patel
-chirag@hms.harvard.edu
 A coding exercise to welcome folks to the group.
 
 INTRODUCTION
@@ -20,7 +19,7 @@ Data files are in the ./nhanes simple csv 2011-2012/ directory.
 
 EXERCISE
 ===============
-We wish to search for what variables are correlated with Glycohemoglobin (%) and rank them in terms of their strength of their correlation. Using a coding language of your choice, do the following:
+We wish to search for what variables are correlated with Glycohemoglobin (%) and rank them in terms of their strength of their correlation. Using a coding language of your choice, do the following and record the time you started and ended:
 
 0.) Read in the data files, formatted as .csv. Each file contains a different set of individual variables (columns) for each patient (rows). Each row identifies a patient whose ID is denoted in the column "ID". Being a real (read: "dirty") dataset, there are missing values and these are coded as "NA" in the datafiles.
 
@@ -48,6 +47,5 @@ We just conducted multiple tests of hypotheses comparing Glycohemoglobin to 4 ot
 6.) Write a brief statement to the doctor regarding your findings (200 words or less). Keep it simple, telling her what you did, how you did it, and how you interpret the results (e.g., what do the beta mean?).
 
 
-Please send your code with comments and brief write up to chirag@hms.harvard.edu
 
 Feel free to use RStudio with RMarkdown (and export as .html) or Jupyter notebook.
